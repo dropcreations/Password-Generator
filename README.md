@@ -4,7 +4,7 @@ A password generator project in C# for windows.
 
 ## __User Interface__
 
-<img src=https://raw.githubusercontent.com/dropcreations/Password-Generator/main/Assets/UI.png>
+<img src=https://raw.githubusercontent.com/dropcreations/Password-Generator/main/Assets/UserInterface.png>
 
 ## __Usage__
 
